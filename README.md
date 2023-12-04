@@ -7,5 +7,5 @@ DAKD 2023 Course assignments including:
   - Data pre-processing
   - Visualizing high-dimensional data
 
-Exercise 2 can be viewed at:
+Exercise 1:
 https://andrewb1998.github.io/Data-Analysis-and-Knowledge-Discovery/
