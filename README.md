@@ -8,4 +8,4 @@ DAKD 2023 Course assignments including:
   - Visualizing high-dimensional data
 
 Exercise 1:
-https://andrewb1998.github.io/Data-Analysis-and-Knowledge-Discovery/
+https://andrewb1998.github.io/Data-Analysis-and-Knowledge-Discovery-Exercise-1/
